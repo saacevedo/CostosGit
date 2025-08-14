@@ -56,16 +56,33 @@ Aquí puedes dar un resumen de los archivos y carpetas más importantes.
 > [!IMPORTANT]
 > ## Configuración e Instalación Para que el proyecto funcione localmente, sigue estos pasos:
 
-> - Instalar XAMPP: Si no lo tienes, descárgalo e instálalo desde el sitio oficial de XAMPP.
 
-##**1: Configurar la base de datos**
+# Instalar XAMPP
+
+Si no lo tienes, descárgalo e instálalo desde el sitio oficial de XAMPP.
+
+---
+
+## 1: Configurar la base de datos**
 - [ ] Inicia los módulos Apache y MySQL en el panel de control de XAMPP.
 - [ ] Ve a http://localhost/phpmyadmin en tu navegador.
 - [ ] Crea una nueva base de datos con el nombre **libreriamanga**.
 - [ ] Importa el archivo SQL **libreriamanga.sql** que se encuentra en la carpeta BASE DE DATOS/ de este proyecto.
 ---
 
+# Título del Proyecto
 
+Una breve descripción de lo que hace tu proyecto.
+
+---
+
+## Tareas Pendientes
+
+### Frontend
+- [ ] Implementar la página de inicio.
+- [ ] Crear el formulario de contacto con validación.
+- [ ] Optimizar las imágenes para una carga más rápida.
+---
 
 
 
