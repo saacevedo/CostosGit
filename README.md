@@ -1,16 +1,35 @@
 # CostosGit
-
-
-Hola, buenas noches.
-
-Claro, te puedo ayudar a redactar un archivo README para tu proyecto. Un buen README debe ser claro y conciso, explicando qué hace el proyecto, cómo instalarlo y cómo usarlo.
-
-Aquí tienes un borrador que puedes usar como base. Simplemente copia y pega el texto, y luego reemplaza los valores de los corchetes [ ] con los detalles específicos de tu proyecto.
-
-Título del Proyecto
-Un párrafo breve que describa de qué trata tu proyecto. Por ejemplo: "Este es un proyecto de una aplicación web para [propósito del proyecto], construido con HTML, PHP y JavaScript, y utilizando una base de datos MySQL gestionada con XAMPP."
-
+---------------------------------------------
 Tecnologías Utilizadas
+HTML: Estructura de todas las páginas del sitio, como el catálogo, los detalles del manga y el panel de administración.
+
+CSS: Estilos y diseño visual de la interfaz.
+
+JavaScript: Interactividad en el frontend, como la navegación en el carrusel de mangas, la gestión de favoritos y la validación de formularios.
+
+PHP: Lógica del backend para interactuar con la base de datos, gestionar los datos de los mangas y manejar las acciones de los usuarios.
+
+MySQL: Base de datos para almacenar toda la información del catálogo de mangas, incluyendo títulos, descripciones, imágenes y otros detalles.
+
+XAMPP: Servidor local para el desarrollo y las pruebas, incluyendo Apache y MySQL.
+
+Funcionalidades Principales
+Catálogo de Manga: Una página principal (index.html) que muestra todos los mangas disponibles, con imágenes y títulos.
+
+Detalles del Manga: Una página específica (indexManga.html) que muestra información detallada de cada título, como la sinopsis, el autor, el género, etc.
+
+Panel de Administración: Una interfaz (indexadmin.html) para que el administrador pueda agregar, editar o eliminar mangas del catálogo.
+
+Navegación Interactiva: Un carrusel (scriptCarrucel.js) para una navegación fluida por los títulos destacados.
+---------------------------------------------
+
+
+
+
+# LIBRERIA MANGA
+Este es un proyecto de una librería en línea y proximamente fisica, especializada en comics Japoneses y Colombianos. La aplicación permite a los usuarios navegar por un catálogo de mangas, ver detalles de cada obra y realizar sus compras de las obras .
+
+# Tecnologías Utilizadas
 HTML, CSS, JavaScript: Para la estructura, estilos y lógica del frontend.
 
 PHP: Para la lógica del backend y la interacción con la base de datos.
