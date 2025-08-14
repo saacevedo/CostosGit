@@ -2,16 +2,16 @@
 
 ## Estructura del proyecto
 ├── BASE DE DATOS/
-│   └── [nombre_del_archivo].sql  // Archivo de la base de datos.
+│   └── [nombre_del_archivo].sql 
 ├── estilos/
-│   └── ...                      // Archivos CSS.
+│   └── ...                     
 ├── imagenes/
-│   └── ...                      // Imágenes del proyecto.
+│   └── ...                      
 ├── navegacion/
-│   └── ...                      // Archivos de navegación (si aplica).
-├── index.html                   // Página principal.
-├── indexadmin.html              // Panel de administración.
-├── indexfrontend.html           // Interfaz para el usuario.
-├── indexManga.html              // Página específica para manga.
+│   └── ...                      
+├── index.html                  
+├── indexadmin.html             
+├── indexfrontend.html           
+├── indexManga.html              
 ├── script.js                    
 └── scriptCarrucel.js            
