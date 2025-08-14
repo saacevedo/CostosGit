@@ -57,8 +57,12 @@ Aquí puedes dar un resumen de los archivos y carpetas más importantes.
 > ## Configuración e Instalación Para que el proyecto funcione localmente, sigue estos pasos:
 
 > - Instalar XAMPP: Si no lo tienes, descárgalo e instálalo desde el sitio oficial de XAMPP.
-> - Clonar el repositorio:
-> - 
+
+> - Configurar la base de datos:
+    - Inicia los módulos Apache y MySQL en el panel de control de XAMPP.
+    - Ve a http://localhost/phpmyadmin en tu navegador.
+    - Crea una nueva base de datos con el nombre [nombre_de_la_base_de_datos].
+    - Importa el archivo SQL que se encuentra en la carpeta BASE DE DATOS/ de este proyecto.
 
 
 
@@ -66,7 +70,13 @@ Aquí puedes dar un resumen de los archivos y carpetas más importantes.
 
 
 
-3 Configurar la base de datos:
+
+
+
+
+
+
+3 
 
 Inicia los módulos Apache y MySQL en el panel de control de XAMPP.
 
