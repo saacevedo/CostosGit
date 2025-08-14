@@ -53,12 +53,18 @@ Aquí puedes dar un resumen de los archivos y carpetas más importantes.
 
 └── scriptCarrucel.js            
 
-Configuración e Instalación
-Para que el proyecto funcione localmente, sigue estos pasos:
+> [!IMPORTANT]
+> ## Configuración e Instalación Para que el proyecto funcione localmente, sigue estos pasos:
 
-Instalar XAMPP: Si no lo tienes, descárgalo e instálalo desde el sitio oficial de XAMPP.
+> - Instalar XAMPP: Si no lo tienes, descárgalo e instálalo desde el sitio oficial de XAMPP.
+> - Clonar el repositorio:
+> - 
 
-Clonar el repositorio:
+
+
+
+
+
 
 3 Configurar la base de datos:
 
