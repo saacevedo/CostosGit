@@ -28,28 +28,3 @@
 ├── script.js                    
 
 └── scriptCarrucel.js            
-
-
-├─ App.js
-
-├─ app.json
-
-├─ package.json
-
-├─ node_modules/
-
-├─ assets/
-
-├─ navigation/
-
-│  └─ AppNavigator.jsx
-
-├─ screens/
-
-│  ├─ ListScreen.jsx
-
-│  └─AddContactScreen.jsx
-
-└─ components/
-
-   └─ TaskItem.jsx
