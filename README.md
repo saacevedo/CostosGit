@@ -61,8 +61,8 @@ Aquí puedes dar un resumen de los archivos y carpetas más importantes.
 - [ ] **1: Configurar la base de datos**
     - [ ] Inicia los módulos Apache y MySQL en el panel de control de XAMPP.
     - [ ] Ve a http://localhost/phpmyadmin en tu navegador.
-    - [ ] Crea una nueva base de datos con el nombre [nombre_de_la_base_de_datos].
-    - [ ] Importa el archivo SQL que se encuentra en la carpeta BASE DE DATOS/ de este proyecto.
+    - [ ] Crea una nueva base de datos con el nombre [libreriamanga].
+    - [ ] Importa el archivo SQL **libreriamanga.sql** que se encuentra en la carpeta BASE DE DATOS/ de este proyecto.
 
 
 
