@@ -59,10 +59,10 @@ Aquí puedes dar un resumen de los archivos y carpetas más importantes.
 > - Instalar XAMPP: Si no lo tienes, descárgalo e instálalo desde el sitio oficial de XAMPP.
 
 > - Configurar la base de datos:
-    - Inicia los módulos Apache y MySQL en el panel de control de XAMPP.
-    - Ve a http://localhost/phpmyadmin en tu navegador.
-    - Crea una nueva base de datos con el nombre [nombre_de_la_base_de_datos].
-    - Importa el archivo SQL que se encuentra en la carpeta BASE DE DATOS/ de este proyecto.
+> - Inicia los módulos Apache y MySQL en el panel de control de XAMPP.
+> - Ve a http://localhost/phpmyadmin en tu navegador.
+> - Crea una nueva base de datos con el nombre [nombre_de_la_base_de_datos].
+> - Importa el archivo SQL que se encuentra en la carpeta BASE DE DATOS/ de este proyecto.
 
 
 
@@ -100,5 +100,62 @@ Aquí puedes dar instrucciones sobre cómo usar las diferentes partes de tu proy
 Para la interfaz de usuario: Visita http://localhost/[nombre_de_la_carpeta_del_proyecto]/indexfrontend.html.
 
 Para el panel de administración: Visita http://localhost/[nombre_de_la_carpeta_del_proyecto]/indexadmin.html.
+
+
+---------------------------------------------------------
+# Título del Proyecto
+
+Una breve descripción de lo que hace tu proyecto.
+
+---
+
+## Tareas Pendientes
+
+### Frontend
+- [ ] Implementar la página de inicio.
+- [ ] Crear el formulario de contacto con validación.
+- [ ] Optimizar las imágenes para una carga más rápida.
+---
+
+## Tareas Completadas
+
+- [x] Configurar el entorno de desarrollo con XAMPP.
+- [x] Crear el diseño básico de la página.
+- [x] Conectar la base de datos a la aplicación.
+
+-----------------------------------------------------------
+# Título del Proyecto
+
+Una breve descripción de lo que hace tu proyecto.
+
+---
+
+## Plan de Trabajo
+
+- [x] **Fase 1: Configuración inicial**
+    - [x] Instalar XAMPP.
+    - [x] Crear la base de datos `[nombre_de_la_db]`.
+- [ ] **Fase 2: Desarrollo del frontend**
+    - [ ] Diseñar la interfaz principal.
+    - [ ] Programar la página de `índice`.
+- [ ] **Fase 3: Lógica del backend**
+    - [ ] Conectar PHP a la base de datos.
+    - [ ] Crear las funciones para agregar y editar registros.
+- [ ] **Fase 4: Finalización**
+    - [ ] Realizar pruebas de rendimiento.
+    - [ ] Corregir errores y preparar para el despliegue.
+-------------------------------------------------------------
+# Título del Proyecto
+
+Una breve descripción de lo que hace tu proyecto.
+
+---
+
+## Próximamente en la Versión 2.0
+
+* **Autenticación de Usuarios:** Añadiremos un sistema completo de registro e inicio de sesión.
+* **Sección de Comentarios:** Los usuarios podrán dejar comentarios en los artículos o productos.
+* **Búsqueda Avanzada:** Implementaremos una función de búsqueda más potente que permitirá filtrar por múltiples criterios.
+* **Optimización General:** Mejoraremos la velocidad de carga y la experiencia de usuario.
 
 
